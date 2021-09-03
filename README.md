@@ -1,13 +1,13 @@
-### Olá! Meu nome é Lucas, mas você pode também me chamar de Rivnat!
+### Hello! My name is Lucas, but you can also call me Rivnat!
 
-Apaixonado por Tecnologia desde jovem, porém, iniciante no mundo do Desenvolvimento Web e Programação. <br>
-Atualmente fazendo cursos de HTML5, CSS3 e Algoritmo. <br>
-Pretendo, em breve, iniciar os estudos em Linguagens de Programação.
+Passionate about Technology since my early days, and now a beginner in the Web Design and Programming world. <br>
+Currently studying HTML5, CSS3 and Algorithm. <br>
+Soon I'll start to learn my first Programming Languages.
 
-### Um pouco mais sobre mim:
+### A little bit more about myself:
 
-- Moro em Florianópolis, Santa Catarina.
-- Trabalhei na Aviação Civil por 7 anos.
-- Iniciei meus estudos para ingressar em Desenvolvimento Web e Programação em 2021.
-- Meus maiores hobbies são jogar Video-Game e fazer atividades físicas.
-- Minhas Redes Sociais: <a href="https://www.facebook.com/lucas.v.zille/" target="_blank">Facebook</a>, <a href="https://www.instagram.com/rivnatzille/" target="_blank">Instagram</a>, <a href="https://www.linkedin.com/in/lucas-victore-zille-816304215/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/Rivnat3" target="_blank">Twitter</a>
+- I live in Florianópolis, Santa Catarina.
+- I've worked in Civil Aviation for 7 years.
+- Started my Web Design and Programming studies in 2021.
+- My biggest hobbies are to play Video-Games and do workout routines.
+- My Social Media accounts: <a href="https://www.facebook.com/lucas.v.zille/" target="_blank">Facebook</a>, <a href="https://www.instagram.com/rivnatzille/" target="_blank">Instagram</a>, <a href="https://www.linkedin.com/in/lucas-victore-zille-816304215/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/Rivnat3" target="_blank">Twitter</a>
