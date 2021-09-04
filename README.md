@@ -1,8 +1,8 @@
 ### Hello! My name is Lucas, but you can also call me Rivnat!
 
 A 26 years old Brazilian who's passionate about Technology since my early days. <br>
-Now, a beginner in the Web Design and Programming world, currently studying HTML5, CSS3 and Algorithm. <br>
-Soon I'll start to learn my first Programming Languages.
+A beginner in the Web Design and Programming world. <br>
+Currently in college, studying System's Analysis and Development.
 
 ### A little bit more about myself:
 
