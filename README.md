@@ -2,7 +2,7 @@
 
 A 26 years old Brazilian who's passionate about Technology since my early days. <br>
 A beginner in the Web Design and Programming world. <br>
-Currently in College, studying System's Analysis and Development.
+Currently in College, studying System Analysis and Development.
 
 ### A little bit more about myself:
 
