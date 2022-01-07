@@ -1,6 +1,6 @@
 ### Hello! My name is Lucas, but you can also call me Rivnat!
 
-A 26 years old Brazilian who's passionate about Technology since my early days. <br>
+A 27 years old Brazilian who's passionate about Technology since my early days. <br>
 A beginner in the Web Design and Programming world. <br>
 Currently in College, studying System Analysis and Development and working as a Junior Support Analyst.
 
