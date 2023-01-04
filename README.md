@@ -1,8 +1,8 @@
 ### Hello! My name is Lucas, but you can also call me Rivnat!
 
-A 27 years old Brazilian who's passionate about Technology since my early days. <br>
-A beginner in the Web Design and Programming world, focusing my studies in PHP and Laravel. <br>
-Currently in College, studying System Analysis and Development and working as a Junior Support Analyst.
+A 28 years old Brazilian who's passionate about Technology since my early days. <br>
+Currently working with both Laravel and VueJS. <br>
+In College, studying System Analysis and Development and working as a Junior Programmer.
 
 ### A little bit more about myself:
 
